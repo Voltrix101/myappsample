@@ -1,0 +1,13 @@
+let data=[5,7,8,9];
+console.log(data.push(2));
+console.log(data);
+console.log(data.pop(2));
+console.log(data);
+console.log(data.shift());
+console.log(data);
+console.log(data.unshift(5));
+console.log(data);
+console.log(data.push(4));
+console.log(data);
+console.log(data.splice(2,2,11,15));
+console.log(data);
